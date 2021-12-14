@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deep201620
 - 👀 I’m interested in Web Development, Python Programming
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m currently learning Django Development
 - 💞️ I’m looking to collaborate on projects from GSSOC
 - 📫 https://www.linkedin.com/in/deep-shah-3572a5143/
 
